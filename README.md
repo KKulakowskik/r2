@@ -1,2 +1,3 @@
 kk
 poprawka
+poprawka lokalna 
